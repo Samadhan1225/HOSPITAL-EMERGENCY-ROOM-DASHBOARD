@@ -83,3 +83,5 @@ Transparency and Accountability: Encourages better performance through visible m
 
 Scalability: The model and design can be extended to other hospital departments (e.g., OPD, surgery, ICU) or even to multiple branches.
 
+📊Screenshot of Dashboard: https://github.com/Samadhan1225/HOSPITAL-EMERGENCY-ROOM-DASHBOARD/blob/main/Screenshot%20of%20Dashboard.png
+
